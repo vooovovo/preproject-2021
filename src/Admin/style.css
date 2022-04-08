@@ -1,0 +1,25 @@
+textarea {
+  resize: none;
+}
+/* ปรับขนาดให้ textarea ลดเพิ่มขนาดไม่ได้ */
+
+.pf1{
+  margin-left:60px;
+  margin-top: 20px;
+  color: black;
+  font-size: 30px;
+}
+
+
+
+.rcorners1 {
+  border-radius: 0px;
+  background: #C4C4C4;
+  padding: 20px; 
+  width: 1000px;
+  height: 380px;  
+  margin-left:14vw;
+  margin-top: 8vh;
+  font-size: 20px;
+}
+/* ทำขนาดผืนผ้า 4 เหลี่ยม */
